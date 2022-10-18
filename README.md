@@ -14,9 +14,9 @@
 
 ### 🎖 Certificates
 <p align="left">
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="https://www.credly.com/badges/42de9b6b-526b-498a-b831-7ef2f5303138/public_url" width="80" height="80"/> 
-<img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"  width="80" height="80"/> 
-<img src="https://images.credly.com/size/340x340/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="https://www.credly.com/badges/88ad8aa8-a472-41c9-b667-ac331ec71a89/public_url" width="80" height="80"/> 
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="https://www.credly.com/badges/42de9b6b-526b-498a-b831-7ef2f5303138/public_url" width="100" height="100"/> 
+<img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"  width="100" height="100"/> 
+<img src="https://images.credly.com/size/680x680/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="https://www.credly.com/badges/88ad8aa8-a472-41c9-b667-ac331ec71a89/public_url" width="100" height="100"/> 
 </p>
 
 ### :octocat: Github Statistics
