@@ -9,7 +9,6 @@
 <img src="https://github.com/github/explore/raw/main/topics/sql-server/sql-server.png" alt="go" width="40" height="40"/>
   <img src="https://github.com/github/explore/raw/main/topics/postgresql/postgresql.png" alt="go" width="40" height="40"/>
   <img src="https://github.com/github/explore/raw/main/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/>
-<img src="https://cncf-branding.netlify.app/img/projects/flux/icon/color/flux-icon-color.png" alt="flux" width="40" height="40"/>
 </p>
 
 ### 🎖 Certificates
